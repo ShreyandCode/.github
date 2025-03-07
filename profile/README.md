@@ -1,4 +1,4 @@
-# 🚀 ShreyandCode
+#  ShreyandCode
 
 ## 🏢 About Us
 
