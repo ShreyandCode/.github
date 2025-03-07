@@ -19,7 +19,7 @@ Our solutions range from **lightweight desktop widgets** to **intelligent automa
 
 ## 🔥 Why Us?
 
-Unlike bulky third-party software that slows down your system, **our tools are designed to be lightweight, efficient, and non-intrusive**. We take inspiration from the latest **UI/UX trends**, combining them with **deep system-level integrations** to create a Windows experience that feels truly modern.
+Unlike bulky third-party software that slows down your system, **our tools are designed to be lightweight, efficient, and non-intrusive**. We take inspiration from the latest **UI/UX trends**, combining them with **deep system-level integrations** to create a Windows experience that feels truly modern. We also use base packages like react and modules and don't add heavy icons or skins so your RAM is efficiently consumed!
 
 At our core, we believe Windows should **evolve with its users**—and we’re here to make that happen.
 
