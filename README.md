@@ -1,9 +1,5 @@
 # 🚀 ShreyandCode
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Redefining+the+Windows+Experience;Customization+|+Usability+|+Modern+Aesthetics;Lightweight+%26+Performance+Optimized+Tools" alt="Typing SVG" />
-</p>
-
 ## 🏢 About Us
 
 In an era where technology evolves at lightning speed, operating systems often lag behind in terms of customization, usability, and modern aesthetics. **ShreyandCode** was born out of a simple yet powerful vision: to **redefine the Windows experience**—making it more intuitive, sleek, and functional for the modern user.
