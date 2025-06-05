@@ -1,8 +1,7 @@
 
 <div align="center" style="margin-bottom: 0.6rem;">
 
-![logo animated](https://raw.githubusercontent.com/ShreyandCode/.github/bae0e450c8682df81c4d0ddf2fe9da54a47055ae/profile/logo-animated.svg)<!-- Replace this entire SVG block with your actual company logo SVG -->
-
+![logo animated](https://raw.githubusercontent.com/ShreyandCode/.github/9abc4be72ffafc918304441f9fb1735f36962fea/profile/logo-animated.svg)
 </div>
 
 ---
