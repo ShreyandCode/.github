@@ -43,4 +43,4 @@ Follow our journey and stay up to date with the latest releases, sneak peeks, an
   </small>
 </div>
 
-* In development
+In development*
