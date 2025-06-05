@@ -1,4 +1,9 @@
+
+<div align="center" style="margin-bottom: 0.6rem;">
+
 ![logo animated](https://raw.githubusercontent.com/ShreyandCode/.github/bae0e450c8682df81c4d0ddf2fe9da54a47055ae/profile/logo-animated.svg)<!-- Replace this entire SVG block with your actual company logo SVG -->
+
+</div>
 
 ---
 
@@ -13,17 +18,17 @@ We are a passionate team of **developers, designers, and visionaries** crafting 
 ## 🛠 What We Build
 | 🧩 | 🤖 | 📱 | 🖥️ | ☁️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Desktop Widgets** | **Intelligent Automation** | **Mobile Apps** | **Desktop Tools** | **Cloud Services** |
+| **Desktop Widgets** | **Desktop Tools** | **Intelligent Automation*** | **Mobile Apps*** | **Cloud Services*** |
 
-From **smart control centers** and **automation tools** to **customizable launchers, file explorers**, and **cross-device sync platforms** — our products are designed to boost productivity and creativity wherever you work.
-
----
-## Our purpose on github
-For testers and developers who want to create with Shrey&Code
+From **smart control centers** and **automation tools** to **customizable launchers, file explorers**, and **cross-device sync platforms** — our products are designed to boost productivity and creativity wherever you work.*
 
 ---
+##💻 Our purpose on github
+For testers and developers who want to create with Shrey&Code and revolutionise the world
 
-## 📣 Join Us
+---
+
+## 📣 Follow Us
 
 Follow our journey and stay up to date with the latest releases, sneak peeks, and insider news at:
 
@@ -37,3 +42,5 @@ Follow our journey and stay up to date with the latest releases, sneak peeks, an
     ShreyandCode — Code Create Elevate. 🚀
   </small>
 </div>
+
+* In development
