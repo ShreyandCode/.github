@@ -1,9 +1,5 @@
 ![logo animated](https://raw.githubusercontent.com/ShreyandCode/.github/bae0e450c8682df81c4d0ddf2fe9da54a47055ae/profile/logo-animated.svg)<!-- Replace this entire SVG block with your actual company logo SVG -->
 
-
-
-# 💻 <span style="background: linear-gradient(90deg, #00ffff, #ff00ff); -webkit-background-clip: text; color: transparent;">ShreyandCode</span>
-
 ---
 
 ## 🚀 Who We Are
@@ -54,14 +50,13 @@ To be the **go-to technology partner** that unlocks the true potential of digita
 
 Follow our journey and stay up to date with the latest releases, sneak peeks, and insider news at:
 
-- **Website:** [shreyandcode.com](https://shreyandcode.com)  
-- **Twitter:** [@ShreyandCode](https://twitter.com/ShreyandCode)  
-- **GitHub:** [github.com/ShreyandCode](https://github.com/ShreyandCode)  
+- **Website:** [shreyandcode.com](https://shreyandcode.web.app)  
+- **X:** [@ShreyandCode](https://x.com/ShreyandCode)  
+- **Instagram:** [instagram.com/ShreyandCode](https://instagram.com/ShreyandCode)  
 
 ---
 
 <div align="center" style="margin-top: 2rem;">
-  <small style="font-family: 'Orbitron', monospace; color: #ff00ff; text-shadow: 0 0 5px #ff00ff, 0 0 10px #00ffff;">
-    🚀 ShreyandCode — Modern tools for modern users. 🚀
+    🚀 ShreyandCode — Code Create Elevate. 🚀
   </small>
 </div>
