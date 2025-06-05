@@ -34,7 +34,7 @@ Follow our journey and stay up to date with the latest releases, sneak peeks, an
 
 - **Website:** [shreyandcode.com](https://shreyandcode.web.app)  
 - **X:** [@ShreyandCode](https://x.com/ShreyandCode)  
-- **Instagram:** [instagram.com/ShreyandCode](https://instagram.com/ShreyandCode)  
+- **Instagram:** [ShreyandCode](https://instagram.com/ShreyandCode)  
 
 ---
 
