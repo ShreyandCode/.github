@@ -1,7 +1,8 @@
 
 <div align="center" style="margin-bottom: 0.6rem;">
 
-![logo animated](https://raw.githubusercontent.com/ShreyandCode/.github/9abc4be72ffafc918304441f9fb1735f36962fea/profile/logo-animated.svg)
+![logo](https://github.com/user-attachments/assets/432e7970-9a1c-44da-9dd1-4d82444391f9)
+
 </div>
 
 ---
