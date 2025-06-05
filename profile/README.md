@@ -1,7 +1,8 @@
 
 <div align="center" style="margin-bottom: 0.6rem;">
 
-![logo]([https://github.com/user-attachments/assets/c61ae3fc-33cb-4bda-a6a7-5b419d7efab6](https://github.com/user-attachments/assets/c61ae3fc-33cb-4bda-a6a7-5b419d7efab6))
+![logo](https://github.com/user-attachments/assets/e2cac8eb-4b7d-44d0-8c4c-c2763cdfa626)
+
 
 </div>
 
