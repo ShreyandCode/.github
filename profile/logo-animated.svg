@@ -2,7 +2,7 @@
   <style>
 @font-face {
   font-family: 'Playwrite DK Loopet';
-  src: url('https://example.com/fonts/yourfont.ttf') format('truetype');
+  src: url('https://github.com/ShreyandCode/.github/blob/14bd21e1eff56a1b7613e663f1779a9e55968413/profile/pld.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
