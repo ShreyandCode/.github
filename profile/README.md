@@ -1,4 +1,4 @@
-![logo animated](https://github.com/ShreyandCode/.github/tree/svg/profile/logo-animated.svg)<!-- Replace this entire SVG block with your actual company logo SVG -->
+![logo animated](https://raw.githubusercontent.com/ShreyandCode/.github/bae0e450c8682df81c4d0ddf2fe9da54a47055ae/profile/logo-animated.svg)<!-- Replace this entire SVG block with your actual company logo SVG -->
 
 
 
