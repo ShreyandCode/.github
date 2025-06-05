@@ -1,7 +1,11 @@
 <svg viewBox="0 0 768 768" width="512" height="512" xmlns="http://www.w3.org/2000/svg" style="background:#00004b">
   <style>
-@import url('https://fonts.googleapis.com/css2?family=Playwrite+DK+Loopet:wght@100..400&amp;display=swap');
-
+@font-face {
+  font-family: 'Playwrite DK Loopet';
+  src: url('https://example.com/fonts/yourfont.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+}
 
     .text-path {
       fill: none;
