@@ -1,27 +1,46 @@
-# 💻ShreyandCode
 
-## 🏢 About Us
+<div align="center" style="margin-bottom: 0.6rem;">
 
-In an era where technology evolves at lightning speed, operating systems often lag behind in terms of customization, usability, and modern aesthetics. **ShreyandCode** was born out of a simple yet powerful vision: to **redefine the Windows experience**—making it more intuitive, sleek, and functional for the modern user.
+![logo](https://github.com/user-attachments/assets/432e7970-9a1c-44da-9dd1-4d82444391f9)
 
-We are a small but highly dedicated team of **developers, designers, and innovators** who believe that Windows has untapped potential. We bridge this gap by developing **lightweight, seamless, and innovative tools** that enhance the Windows experience without sacrificing performance.
+</div>
 
-## 🎯 Our Mission
+---
 
-✅ **Minimalist yet powerful UI enhancements** – giving Windows a cleaner, modernized look without unnecessary clutter.  
-✅ **Performance-optimized utilities** – tools designed to improve workflow, multitasking, and productivity.  
-✅ **Customization at its core** – empowering users to tailor their Windows experience to their exact needs.  
-✅ **Bridging mobile & desktop experiences** – bringing features inspired by mobile operating systems to improve usability.  
+## 🚀 Who We Are
 
-## 🛠 What We Offer
+**ShreyandCode** is a cutting-edge tech innovator dedicated to **transforming digital experiences**. From Computers and beyond, we build **powerful, intuitive, and lightweight tools** that empower users and redefine how technology fits into everyday life.
 
-Our solutions range from **lightweight desktop widgets** to **intelligent automation tools, floating UI elements, and productivity-enhancing software**. Whether it's a **smart control center, a modernized file explorer, or a fully customizable taskbar**, we ensure that each product integrates smoothly with Windows while maintaining **system stability and performance**.
+We are a passionate team of **developers, designers, and visionaries** crafting software solutions that are not just tools, but experiences — designed for speed, simplicity, and seamless integration.
 
-## 🔥 Why Us?
+---
 
-Unlike bulky third-party software that slows down your system, **our tools are designed to be lightweight, efficient, and non-intrusive**. We take inspiration from the latest **UI/UX trends**, combining them with **deep system-level integrations** to create a Windows experience that feels truly modern. We also use base packages like react and modules and don't add heavy icons or skins so your RAM is efficiently consumed!
+## 🛠 What We Build
+| 🧩 | 🤖 | 📱 | 🖥️ | ☁️ |
+|:---:|:---:|:---:|:---:|:---:|
+| **Desktop Widgets** | **Desktop Tools** | **Intelligent Automation*** | **Mobile Apps*** | **Cloud Services*** |
 
-At our core, we believe Windows should **evolve with its users**—and we’re here to make that happen.
+From **smart control centers** and **automation tools** to **customizable launchers, file explorers**, and **cross-device sync platforms** — our products are designed to boost productivity and creativity wherever you work.*
 
-🚀 **Join us on this journey to redefine Windows!** 🚀
+---
+##💻 Our purpose on github
+For testers and developers who want to create with Shrey&Code and revolutionise the world
 
+---
+
+## 📣 Follow Us
+
+Follow our journey and stay up to date with the latest releases, sneak peeks, and insider news at:
+
+- **Website:** [shreyandcode.com](https://shreyandcode.web.app)  
+- **X:** [@ShreyandCode](https://x.com/ShreyandCode)  
+- **Instagram:** [instagram.com/ShreyandCode](https://instagram.com/ShreyandCode)  
+
+---
+
+<div align="center" style="margin-top: 2rem;">
+    ShreyandCode — Code Create Elevate. 🚀
+  </small>
+</div>
+
+In development*
