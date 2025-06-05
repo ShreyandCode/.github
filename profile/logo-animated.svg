@@ -1,8 +1,8 @@
-<svg viewBox="0 0 768 768" width="512" height="512" xmlns="http://www.w3.org/2000/svg" style="background:#00004b">
+<svg viewBox="0 0 768 768" width="3190" height="3190" xmlns="http://www.w3.org/2000/svg" style="background:#00004b">
   <style>
 @font-face {
   font-family: 'Playwrite DK Loopet';
-  src: url('https://github.com/ShreyandCode/.github/blob/14bd21e1eff56a1b7613e663f1779a9e55968413/profile/pld.ttf') format('truetype');
+  src: url('https://shreyandcode.web.app/pld.ttf') format('truetype');
   font-weight: normal;
   font-style: normal;
 }
