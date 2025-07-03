@@ -19,7 +19,7 @@ We are a passionate team of **developers, designers, and visionaries** crafting 
 ## 🛠 What We Build
 | 🧩 | 🤖 | 📱 | 🖥️ | ☁️ |
 |:---:|:---:|:---:|:---:|:---:|
-| **Desktop Widgets** | **Desktop Tools** | **Intelligent Automation*** | **Mobile Apps*** | **Cloud Services*** |
+| **Desktop Widgets** | **Desktop Tools** | **Intelligent Automation*** | **Mobile Apps** | **Cloud Services*** |
 
 From **smart control centers** and **automation tools** to **customizable launchers, file explorers**, and **cross-device sync platforms** — our products are designed to boost productivity and creativity wherever you work.*
 
